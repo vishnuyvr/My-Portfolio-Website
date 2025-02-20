@@ -17,11 +17,14 @@ import {
   mongodb,
   git,
   figma,
-  docker,
   threejs,
   linkedin,
   github,
 } from "../assets";
+import ThreeJS from "../assets/tech/ThreeJS.png";
+import aws from "../assets/tech/aws-logo-2.png";
+import java from "../assets/tech/java-5.png";
+import kotlin from "../assets/tech/kotlin.png";
 import instagram from '../assets/socials/instagram.svg'
 
 // Navbar Links
@@ -76,28 +79,12 @@ export const SERVICES = [
 // Technologies
 export const TECHNOLOGIES = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "TypeScript",
+    icon: typescript,
   },
   {
     name: "Tailwind CSS",
@@ -113,7 +100,23 @@ export const TECHNOLOGIES = [
   },
   {
     name: "Three JS",
-    icon: threejs,
+    icon: ThreeJS,
+  },
+  {
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
+  },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "Redux Toolkit",
+    icon: redux,
   },
   {
     name: "git",
@@ -122,6 +125,18 @@ export const TECHNOLOGIES = [
   {
     name: "figma",
     icon: figma,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "Java",
+    icon: java,
+  },
+  {
+    name: "Kotlin",
+    icon: kotlin,
   },
 ] as const;
 

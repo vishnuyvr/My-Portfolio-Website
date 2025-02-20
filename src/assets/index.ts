@@ -12,7 +12,6 @@ import preview from "./preview.png";
 import web from "./web.png";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -39,7 +38,6 @@ export {
   preview,
   web,
   css,
-  docker,
   figma,
   git,
   html,

@@ -23,8 +23,12 @@ import {
 } from "../assets";
 import ThreeJS from "../assets/tech/ThreeJS.png";
 import aws from "../assets/tech/aws-logo-2.png";
-import java from "../assets/tech/java-5.png";
+import java from "../assets/tech/Java.png";
 import kotlin from "../assets/tech/kotlin.png";
+import jira from "../assets/tech/Jira.png";
+import jenkins from "../assets/tech/Jenkins.png";
+import selenium from "../assets/tech/Selenium.png";
+import postman from "../assets/tech/Postman.png";
 import instagram from '../assets/socials/instagram.svg'
 
 // Navbar Links
@@ -137,6 +141,22 @@ export const TECHNOLOGIES = [
   {
     name: "Kotlin",
     icon: kotlin,
+  },
+  {
+    name: "Jira",
+    icon: jira,
+  },
+  {
+    name: "Jenkins",
+    icon: jenkins,
+  },
+  {
+    name: "Postman",
+    icon: postman,
+  },
+  {
+    name: "Selenium",
+    icon: selenium,
   },
 ] as const;
 

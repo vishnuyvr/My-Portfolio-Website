@@ -24,7 +24,7 @@ import {
 import ThreeJS from "../assets/tech/ThreeJS.png";
 import aws from "../assets/tech/aws-logo-2.png";
 import java from "../assets/tech/Java.png";
-import kotlin from "../assets/tech/kotlin.png";
+import kotlin from "../assets/tech/Kotlin.png";
 import jira from "../assets/tech/Jira.png";
 import jenkins from "../assets/tech/Jenkins.png";
 import selenium from "../assets/tech/Selenium.png";

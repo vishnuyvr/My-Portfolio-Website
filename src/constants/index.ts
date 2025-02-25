@@ -123,6 +123,22 @@ export const TECHNOLOGIES = [
     icon: redux,
   },
   {
+    name: "Jira",
+    icon: jira,
+  },
+  {
+    name: "Jenkins",
+    icon: jenkins,
+  },
+  {
+    name: "Postman",
+    icon: postman,
+  },
+  {
+    name: "Selenium",
+    icon: selenium,
+  },
+  {
     name: "git",
     icon: git,
   },
@@ -142,22 +158,7 @@ export const TECHNOLOGIES = [
     name: "Kotlin",
     icon: kotlin,
   },
-  {
-    name: "Jira",
-    icon: jira,
-  },
-  {
-    name: "Jenkins",
-    icon: jenkins,
-  },
-  {
-    name: "Postman",
-    icon: postman,
-  },
-  {
-    name: "Selenium",
-    icon: selenium,
-  },
+  
 ] as const;
 
 // Experiences

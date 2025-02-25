@@ -149,12 +149,14 @@ export const EXPERIENCES = [
     iconBg: "white",
     date: "January 2021 - December 2022",
     points: [
-      "Developed and maintained full-stack web applications using technologies like TypeScript, React.js, Node.js, Express.js, and MongoDB, delivering robust and high-performing solutions.",
-      "Collaborated in an Agile environment, participating in daily stand-ups, sprint planning, and retrospectives, ensuring timely project delivery and effective communication with cross-functional teams.",
-      "Designed RESTful APIs and integrated third-party services to connect front-end applications with back-end databases, improving functionality and data flow.",
-      "Led front-end development using React.js, building dynamic, responsive, and user-friendly interfaces with reusable components for optimized performance.",
-      "Optimized application performance by implementing lazy loading, code splitting, and efficient database queries, reducing load times and improving user experience.",
-      "Utilized version control tools like Git and GitHub to manage code, track changes, and collaborate with fellow developers."
+      "Developed and maintained scalable web applications using ReactJS, TypeScript, and Node.js, ensuring responsive and user-friendly UI/UX across multiple devices",
+      "Collaborated in Agile/Scrum environments, leveraging Jira for sprint planning, task tracking, and progress reporting.",
+      "Implemented robust backend services and RESTful APIs using Node.js, enhancing application performance and data handling.",
+      "Integrated CI/CD pipelines using Jenkins to automate build, test, and deployment processes, reducing release times by 30%.",
+      "Designed and executed end-to-end API tests using Postman, ensuring high-quality and secure data exchange between frontend and backend systems.",
+      "Wrote automated UI test scripts using Selenium WebDriver, resulting in a 25% reduction in manual testing efforts and improved release reliability.",
+      "Actively contributed to code reviews and knowledge-sharing sessions, promoting best practices in JavaScript, TypeScript, and test-driven development (TDD).",
+      "Optimized application performance and reduced load times by 20% through efficient code splitting and lazy loading in ReactJS.",
     ],
   },
   {
@@ -166,8 +168,9 @@ export const EXPERIENCES = [
     points: [
       "Worked on back-end development using Node.js and Express.js to build and optimize RESTful APIs for seamless data exchange between the client and server.",
       "Implemented database solutions using MongoDB, handling CRUD operations and data management to support application features.",
-      "Performed thorough code reviews to identify potential errors or inconsistencies within the software application.",
-      "Assisted senior developers with debugging complex issues that arose during the testing phase.",
+      "Collaborated with senior developers to implement CI/CD pipelines using Jenkins, streamlining deployment processes and ensuring faster delivery cycles.",
+      "Gained hands-on experience in writing clean, maintainable code and adhering to industry best practices in web development and testing.",
+      "Participated in daily stand-ups and code reviews, gaining insights into best practices in scalable application development.",
     ],
   },
   

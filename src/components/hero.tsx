@@ -43,7 +43,7 @@ export const Hero = () => {
         </h1>
         <p className={cn(styles.heroSubText, "mt-2 text-white-100")}>
         <TypingEffect /> <br />
-          TypeScript, JavaScript, ReactJS, NodeJS, CI/CD, Postman, Selenium, RESTAPIs and more.
+          TypeScript, JavaScript, ReactJS, NodeJS, NextJS, CI/CD, Selenium, RESTAPIs and more.
         </p> 
         <p className={cn(styles.heroSubText, "mt-5 text-white-100")}>
           M.S in Computer Science from California State University, Fullerton. (Jan 2023 - Dec 2024)
